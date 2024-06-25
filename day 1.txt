@@ -1,0 +1,12 @@
+Day 1 : 
+Tuesday
+installation of linux
+Task 1 : study of exploitation tools
+task 2 : analyzing and testing of exploitation methods and penetration testing
+Task 3: study of price tempring method in order to find vulnerabilities in site
+task 4 : perform price tempring technique on website name - nuskhe by paras and find out vulnerabilities in it .
+steps :
+interception
+price 
+browse http server reuest response and then manipulation 
+interception off
