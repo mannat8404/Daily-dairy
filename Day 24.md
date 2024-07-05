@@ -1,7 +1,11 @@
 #Day 24 
+
 #introduction to wifi attacks
+
 Wi-Fi, or wireless fidelity, is a technology that allows devices to connect to the internet or communicate wirelessly within a local area network (LAN). While Wi-Fi networks are convenient and widely used, they are also vulnerable to various types of attacks. Understanding these attacks is crucial for implementing effective security measures.
+
 Types of Wi-Fi Attacks
+
 1.	Eavesdropping
 o	Description: Also known as sniffing, this attack involves intercepting and capturing data packets transmitted over the Wi-Fi network.
 o	Tools: Wireshark, tcpdump, Aircrack-ng
